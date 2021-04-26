@@ -1,8 +1,6 @@
 # Semantic View Selection
-***
 This project contains the code for semantically meaningful view selection. It aims to autonomously find an optimal view for a given object in a given pose.
 The code for our IROS 2018 paper: [Semantically Meaningful View Selection](https://arxiv.org/abs/1807.10303).
-***
 
 ## Dataset
 The complete dataset generated for this paper can be found [here](https://github.com/jorisguerin/SemanticViewSelection_dataset). Please download it and uncompress before executing this code.
@@ -23,5 +21,12 @@ The testing script is the *testNN.py*.
 * vgg19 ?
 
 ## Launching the application
-
-
+```
+Command to write in terminal
+``` 
+Explaining the different arguments
+* arg 1 
+* arg 2 
+* ...
+***
+Cases where features have not been computed
