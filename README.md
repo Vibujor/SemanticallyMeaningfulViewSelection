@@ -16,17 +16,19 @@ The script used for training is *train.py*.
 
 ## Testing
 The testing script is the *testNN.py*.
-* It uses the file *model.json* and *my_weights.h5* to select the optimum view for each image in the clustering problem. 
+* It uses the file *model.json* and *my_weights.h5* to select the optimum view for each image in the clustering problem (model trained from features extracted with vgg19, hard-coded). 
 * The variable *feature_extractor* is used to choose the network used to obtain the features that will be used to compare the views.
 * vgg19 ?
 
 ## Launching the application
+###The code is launched using the following command : 
 ```
 Command to write in terminal
 ``` 
-Explaining the different arguments
+###Explaining the different arguments
 * arg 1 
 * arg 2 
 * ...
 ***
-Cases where features have not been computed
+###Cases where features have not been computed
+Other script to launch to extract the features for the chosen network.
