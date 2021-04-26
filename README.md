@@ -21,14 +21,14 @@ The testing script is the *testNN.py*.
 * vgg19 ?
 
 ## Launching the application
-###The code is launched using the following command : 
+### The code is launched using the following command : 
 ```
 Command to write in terminal
 ``` 
-###Explaining the different arguments
+### Explaining the different arguments
 * arg 1 
 * arg 2 
 * ...
 ***
-###Cases where features have not been computed
+### Cases where features have not been computed
 Other script to launch to extract the features for the chosen network.
