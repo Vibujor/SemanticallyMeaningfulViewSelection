@@ -28,8 +28,9 @@ The testing script is the *testNN.py*.
 
 ## Installation
 ### Data 
-* Download the dataset [here](https://github.com/jorisguerin/SemanticViewSelection_dataset)
-* Download extracted features (file vgg_block5pool_fullset.h5) [here]https://drive.google.com/drive/folders/1t8_EfyqK3B_7Q4Xo34uZfzjKzsp-Dbpg).
+* Download the dataset [here](https://github.com/jorisguerin/SemanticViewSelection_dataset)usp=sharing)
+* Download extracted features (file vgg_block5pool_fullset.h5) 
+[here](https://drive.google.com/drive/folders/1t8_EfyqK3B_7Q4Xo34uZfzjKzsp-Dbpg)usp=sharing).
 This file will be used to extract labels and create new features.
 * Make sure to organize your data and features in folders "Data" and "Features" in your directory. 
 ### Python files
