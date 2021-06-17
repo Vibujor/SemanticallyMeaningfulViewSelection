@@ -40,6 +40,7 @@ This file will be used to extract labels and create new features.
 * purity.py
 * clustering_problem_generator.py
 * launch_skip 
+
 These files will need to be in the same directory as the data folders.
 
 ## Launching the application
